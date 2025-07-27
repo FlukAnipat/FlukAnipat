@@ -23,16 +23,36 @@
 ---
 
 ## 🚀 Tech Stack
+# 🧠 Skills Breakdown
 
-<style>
-  .tech-icon {
-    margin: 10px;
-    transition: transform 0.3s ease;
-  }
-  .tech-icon:hover {
-    transform: translateY(-8px) scale(1.1);
-  }
-</style>
+<div align="center">
+
+### 🧩 Core Languages  
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php" height="50" />
+
+### 🖊 Code Editors & Tools  
+<img src="https://skillicons.dev/icons?i=vscode,git,figma" height="50" />
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" height="50" />
+
+### ⚙ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet" height="50" />
+
+### 🗄️ Database  
+<img src="https://skillicons.dev/icons?i=mysql" height="50" />
+
+### 🧰 Software & Design  
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,blender" height="50" />
+
+### 🕸 Web3  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="50" />
+<img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" height="50" />
+
+### ☁ Cloud & IoT  
+<img src="https://skillicons.dev/icons?i=gcp,arduino" height="50" />
+
+</div>
 
 ### 🖌️ Frontend :
 <p align="left">
