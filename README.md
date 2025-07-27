@@ -30,22 +30,22 @@
 ### 🧩 Core Languages :
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php" height="50" />
 
-### 🖊 Code Editors & Tools  
+### 🖊 Code Editors & Tools :
 <img src="https://skillicons.dev/icons?i=vscode,git,figma" height="50" />
 
-### 🎨 Frontend  
+### 🎨 Frontend :
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" height="50" />
 
-### ⚙ Backend  
+### ⚙ Backend :
 <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet" height="50" />
 
-### 🗄️ Database  
+### 🗄️ Database : 
 <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 
-### 🧰 Software & Design  
+### 🧰 Software & Design : 
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,blender" height="50" />
 
-### ☁ Cloud & IoT  
+### ☁ Cloud & IoT :
 <img src="https://skillicons.dev/icons?i=gcp,arduino" height="50" />
 
 </div>
