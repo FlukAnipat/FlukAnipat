@@ -34,8 +34,8 @@
   }
 </style>
 
-### 🖌️ Frontend
-<p align="center">
+### 🖌️ Frontend :
+<p align="left">
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
@@ -45,8 +45,8 @@
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
 </p>
 
-### 🧠 Backend
-<p align="center">
+### 🧠 Backend :
+<p align="left">
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50"/>
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
@@ -55,14 +55,14 @@
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
 </p>
 
-### 🗃️ Database
-<p align="center">
+### 🗃️ Database :
+<p align="left">
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50"/>
 </p>
 
-### 🧩 Others
-<p align="center">
+### 🧩 Others :
+<p align="left">
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
   <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
