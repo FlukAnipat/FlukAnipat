@@ -27,7 +27,7 @@
 
 <div align="left">
 
-### 🧩 Core Languages  
+### 🧩 Core Languages :
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,php" height="50" />
 
 ### 🖊 Code Editors & Tools  
@@ -44,10 +44,6 @@
 
 ### 🧰 Software & Design  
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,blender" height="50" />
-
-### 🕸 Web3  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="50" />
-<img src="https://seeklogo.com/images/M/metamask-logo-09EDE53DBD-seeklogo.com.png" height="50" />
 
 ### ☁ Cloud & IoT  
 <img src="https://skillicons.dev/icons?i=gcp,arduino" height="50" />
