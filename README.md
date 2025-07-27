@@ -19,9 +19,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=FlukAnipat&label=Profile%20views&color=0ea5e9&style=flat" alt="FlukAnipat" />
 </p>
+
 ---
 # 🧠 Skills Breakdown
 
