@@ -21,11 +21,12 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FlukAnipat&label=Profile%20views&color=0ea5e9&style=flat" alt="FlukAnipat" />
+  <p>github University</p>
+  <a href="https://github.com/FlukAnipat">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
 </p>
-<p>github University</p>
-<a href="https://github.com/FlukAnipat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
 
 ---
 # 🧠 Skills Breakdown
