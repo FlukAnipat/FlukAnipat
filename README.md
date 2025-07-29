@@ -21,7 +21,9 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=651998013&label=Profile%20views&color=0ea5e9&style=flat" alt="FlukAnipat" />
-  github University
+</p>
+<p align="center">
+ github University
   <a href="https://github.com/651998013">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
