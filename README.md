@@ -1,14 +1,14 @@
 <!-- GitHub Profile README.md -->
 
-<h1 align="center">
+<h1 align="left">
   👋 Hi, I'm <span style="color:#0ea5e9;">Anipat Jaiworn</span>
 </h1>
 
-<p align="center">
+<p align="left">
   💻 Developer | 📘 Web Dev Teacher | 🌍 Based in Chiang Rai, Thailand
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:Anipat5556666@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -19,14 +19,14 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=651998013&label=Profile%20views&color=0ea5e9&style=flat" alt="FlukAnipat" />
 </p>
-<p align="center">
- <p align="center">
+<p align="left">
+ <p align="left">
    Github University
  </p>
-  <p align="center"><a href="https://github.com/651998013">
+  <p align="left"><a href="https://github.com/651998013">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </p>
