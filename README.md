@@ -26,9 +26,10 @@
  <p align="center">
    github University
  </p>
-  <a href="https://github.com/651998013">
+  <p align="center"><a href="https://github.com/651998013">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
+  </p>
 </p>
 
 
