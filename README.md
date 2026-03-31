@@ -63,15 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlukAnipat&show_icons=true&theme=radical&border_radius=10" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlukAnipat&layout=compact&theme=tokyonight&border_radius=10" width="320"/>
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
