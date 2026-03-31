@@ -127,21 +127,14 @@ const anipat = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FlukAnipat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&ring_color=0ea5e9" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FlukAnipat&theme=tokyonight&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlukAnipat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=FlukAnipat&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0ea5e9&line=0ea5e9&point=c9d1d9&area=true&area_color=0ea5e9" alt="Contribution Graph"/>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FlukAnipat&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
 <br>
 
 ## 🔥 Contribution Activity
@@ -151,16 +144,6 @@ const anipat = {
 </div>
 
 <br>
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlukAnipat&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9)](https://github.com/FlukAnipat)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=651998013&repo=university-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9)](https://github.com/651998013)
-
-</div>
 
 <br>
 
