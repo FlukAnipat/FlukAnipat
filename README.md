@@ -126,7 +126,10 @@ const anipat = {
 
 ## 📊 GitHub Statistics
 
-
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FlukAnipat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&ring_color=0ea5e9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FlukAnipat&theme=tokyonight&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlukAnipat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
