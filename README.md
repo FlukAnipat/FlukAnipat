@@ -4,20 +4,30 @@
 
 <br>
 
-<h3>Full Stack Developer</h3>
-<p>Building modern, scalable web applications</p>
+<h2>Full Stack Developer</h2>
+<p><i>Building modern, scalable web applications</i></p>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlukAnipat)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FlukAnipat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anipat5556666@gmail.com)
+<a href="https://github.com/FlukAnipat">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://gitlab.com/FlukAnipat">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+<a href="mailto:Anipat5556666@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 <div>
 
-<h2>💼 About</h2>
+<h2 style="border-bottom:1px solid #30363d; padding-bottom:6px;">💼 About</h2>
 
-<pre>
+<pre style="background:#0d1117; padding:16px; border-radius:10px;">
 const anipat = {
   name: "Anipat Jaiworn",
   role: "Full Stack Developer",
@@ -26,8 +36,11 @@ const anipat = {
 };
 </pre>
 
-<h2>🧠 Core Skills</h2>
+<h2 style="border-bottom:1px solid #30363d; padding-bottom:6px;">🧠 Core Skills</h2>
 
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:20px;">
+
+<div>
 <h3>💻 Programming Languages</h3>
 <ul>
   <li><b>Strong:</b> JavaScript, TypeScript ⭐</li>
@@ -35,18 +48,20 @@ const anipat = {
   <li><b>Familiar:</b> C, C++</li>
 </ul>
 
-<h3>🎨 Frontend Development</h3>
+<h3>🎨 Frontend</h3>
 <ul>
   <li><b>Frameworks:</b> Vue.js ⭐, Nuxt.js ⭐, React, Next.js</li>
   <li><b>Core:</b> HTML5, CSS3, JavaScript, TypeScript</li>
-  <li><b>UI & Styling:</b> Tailwind CSS, Vuetify</li>
+  <li><b>UI:</b> Tailwind CSS, Vuetify</li>
 </ul>
+</div>
 
-<h3>⚙️ Backend Development</h3>
+<div>
+<h3>⚙️ Backend</h3>
 <ul>
   <li><b>Runtime:</b> Node.js ⭐</li>
   <li><b>Frameworks:</b> NestJS, Express</li>
-  <li><b>Concepts:</b> REST API Design, JWT Authentication, MVC Architecture</li>
+  <li><b>Concepts:</b> REST API, JWT Auth, MVC</li>
 </ul>
 
 <h3>🗄️ Database</h3>
@@ -55,11 +70,14 @@ const anipat = {
   <li><b>NoSQL:</b> MongoDB</li>
 </ul>
 
-<h3>🛠️ DevOps & Tools</h3>
+<h3>🛠️ Tools</h3>
 <ul>
   <li><b>Version Control:</b> Git, GitHub, GitLab</li>
-  <li><b>Containerization:</b> Docker</li>
-  <li><b>Development Tools:</b> VS Code, Windsurf, Antigravity</li>
+  <li><b>Container:</b> Docker</li>
+  <li><b>Tools:</b> VS Code, Windsurf, Antigravity</li>
 </ul>
+</div>
+
+</div>
 
 </div>
