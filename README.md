@@ -38,9 +38,18 @@ const anipat = {
 
 <h2 style="border-bottom:1px solid #30363d; padding-bottom:6px;">🧠 Core Skills</h2>
 
+<!-- ICON SECTION -->
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,next,nodejs,nestjs,express,mysql,mongodb,docker,git,github,gitlab,vscode" />
+</div>
+
+<br>
+
+<!-- TEXT DETAIL -->
 <div style="display:grid; grid-template-columns:1fr 1fr; gap:20px;">
 
 <div>
+
 <h3>💻 Programming Languages</h3>
 <ul>
   <li><b>Strong:</b> JavaScript, TypeScript ⭐</li>
@@ -54,9 +63,11 @@ const anipat = {
   <li><b>Core:</b> HTML5, CSS3, JavaScript, TypeScript</li>
   <li><b>UI:</b> Tailwind CSS, Vuetify</li>
 </ul>
+
 </div>
 
 <div>
+
 <h3>⚙️ Backend</h3>
 <ul>
   <li><b>Runtime:</b> Node.js ⭐</li>
@@ -76,8 +87,17 @@ const anipat = {
   <li><b>Container:</b> Docker</li>
   <li><b>Tools:</b> VS Code, Windsurf, Antigravity</li>
 </ul>
+
 </div>
 
 </div>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>© 2026 Anipat Jaiworn</sub>
 
 </div>
