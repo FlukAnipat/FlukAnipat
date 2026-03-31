@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anipat%20Jaiworn&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Building%20Web%20&amp;%20APIs%20🚀&descAlignY=55&descSize=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anipat%20Jaiworn&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=25" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B;Full+Stack+Developer;Building+Web+Applications+%F0%9F%92%BB;Teaching+Web+Development+%F0%9F%93%98;Based+in+Chiang+Rai+%F0%9F%87%B9%F0%9F%87%AD;Always+Learning+New+Things+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;Full+Stack+Developer;Building+Web+Applications+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" />
 
 <br><br>
 
-💻 **Full Stack Developer passionate about building scalable web applications**  
-📍 Based in Chiang Rai, Thailand  
-🚀 Focused on Web Development, APIs, and System Design  
+💻 **Full Stack Developer**  
+🚀 Building modern web applications  
 
 <br>
 
