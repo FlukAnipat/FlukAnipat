@@ -1,500 +1,265 @@
-<!DOCTYPE html>
-<html lang="th">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anipat Jaiworn - Portfolio</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-            color: #e2e8f0;
-            line-height: 1.6;
-            overflow-x: hidden;
-        }
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anipat%20Jaiworn&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Web%20Dev%20Teacher&descAlignY=55&descSize=25)
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Web+Development+Teacher+%F0%9F%93%98;Based+in+Chiang+Rai+%F0%9F%87%B9%F0%9F%87%AD;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-        /* Header Section */
-        .header {
-            text-align: center;
-            padding: 60px 20px;
-            background: linear-gradient(135deg, #0ea5e9 0%, #3b82f6 100%);
-            border-radius: 20px;
-            margin-bottom: 40px;
-            box-shadow: 0 20px 60px rgba(14, 165, 233, 0.3);
-            position: relative;
-            overflow: hidden;
-        }
+<br>
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
-            animation: rotate 20s linear infinite;
-        }
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anipat5556666@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlukAnipat)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/FlukAnipat)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fluk__anipat____)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Fluk.Anipat5556666)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/fluk_donovan)
 
-        @keyframes rotate {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
+![Profile Views](https://komarev.com/ghpvc/?username=FlukAnipat&label=Profile%20Views&color=0ea5e9&style=for-the-badge)
 
-        .header-content {
-            position: relative;
-            z-index: 1;
-        }
+</div>
 
-        h1 {
-            font-size: 3.5em;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-            animation: fadeInDown 1s ease;
-        }
+<br>
 
-        @keyframes fadeInDown {
-            from {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-        .typing-text {
-            font-size: 1.5em;
-            margin: 20px 0;
-            min-height: 40px;
-            color: #fff;
-        }
-
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            flex-wrap: wrap;
-            margin-top: 30px;
-        }
-
-        .social-badge {
-            display: inline-block;
-            padding: 12px 24px;
-            background: rgba(255,255,255,0.2);
-            border-radius: 25px;
-            text-decoration: none;
-            color: white;
-            font-weight: bold;
-            transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
-        }
-
-        .social-badge:hover {
-            background: rgba(255,255,255,0.3);
-            transform: translateY(-3px);
-            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-        }
-
-        /* About Section */
-        .about-section {
-            background: rgba(30, 41, 59, 0.6);
-            border-radius: 20px;
-            padding: 40px;
-            margin-bottom: 40px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255,255,255,0.1);
-        }
-
-        .code-block {
-            background: #0f172a;
-            border-radius: 10px;
-            padding: 25px;
-            font-family: 'Courier New', monospace;
-            overflow-x: auto;
-            border-left: 4px solid #0ea5e9;
-            margin: 20px 0;
-        }
-
-        .code-block code {
-            color: #22d3ee;
-        }
-
-        /* Skills Section */
-        .skills-section {
-            margin-bottom: 40px;
-        }
-
-        .skill-category {
-            background: rgba(30, 41, 59, 0.6);
-            border-radius: 15px;
-            padding: 30px;
-            margin-bottom: 25px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255,255,255,0.1);
-            transition: all 0.3s ease;
-        }
-
-        .skill-category:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 40px rgba(14, 165, 233, 0.2);
-        }
-
-        .skill-category h3 {
-            color: #0ea5e9;
-            margin-bottom: 20px;
-            font-size: 1.8em;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .skill-tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-        }
-
-        .skill-tag {
-            background: linear-gradient(135deg, #0ea5e9 0%, #3b82f6 100%);
-            padding: 10px 20px;
-            border-radius: 25px;
-            font-weight: bold;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(14, 165, 233, 0.3);
-        }
-
-        .skill-tag:hover {
-            transform: scale(1.05);
-            box-shadow: 0 6px 20px rgba(14, 165, 233, 0.5);
-        }
-
-        /* Stats Section */
-        .stats-section {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 25px;
-            margin-bottom: 40px;
-        }
-
-        .stat-card {
-            background: rgba(30, 41, 59, 0.6);
-            border-radius: 15px;
-            padding: 30px;
-            text-align: center;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255,255,255,0.1);
-            transition: all 0.3s ease;
-        }
-
-        .stat-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 20px 50px rgba(14, 165, 233, 0.3);
-        }
-
-        .stat-number {
-            font-size: 3em;
-            font-weight: bold;
-            color: #0ea5e9;
-            margin-bottom: 10px;
-        }
-
-        .stat-label {
-            font-size: 1.1em;
-            color: #94a3b8;
-        }
-
-        /* Footer */
-        .footer {
-            text-align: center;
-            padding: 40px 20px;
-            background: rgba(30, 41, 59, 0.6);
-            border-radius: 20px;
-            margin-top: 40px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255,255,255,0.1);
-        }
-
-        .footer-emoji {
-            font-size: 2em;
-            margin-bottom: 15px;
-        }
-
-        /* Animations */
-        @keyframes float {
-            0%, 100% {
-                transform: translateY(0px);
-            }
-            50% {
-                transform: translateY(-20px);
-            }
-        }
-
-        .floating {
-            animation: float 3s ease-in-out infinite;
-        }
-
-        /* Responsive */
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 2.5em;
-            }
-
-            .typing-text {
-                font-size: 1.2em;
-            }
-
-            .skill-category {
-                padding: 20px;
-            }
-        }
-
-        /* Custom Scrollbar */
-        ::-webkit-scrollbar {
-            width: 12px;
-        }
-
-        ::-webkit-scrollbar-track {
-            background: #0f172a;
-        }
-
-        ::-webkit-scrollbar-thumb {
-            background: #0ea5e9;
-            border-radius: 6px;
-        }
-
-        ::-webkit-scrollbar-thumb:hover {
-            background: #3b82f6;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- Header -->
-        <div class="header">
-            <div class="header-content">
-                <div class="floating">
-                    <h1>👨‍💻 Anipat Jaiworn</h1>
-                </div>
-                <div class="typing-text" id="typing-text"></div>
-                <p>📍 Based in Chiang Rai, Thailand</p>
-                
-                <div class="social-links">
-                    <a href="mailto:Anipat5556666@gmail.com" class="social-badge">📧 Email</a>
-                    <a href="https://github.com/FlukAnipat" class="social-badge">💻 GitHub</a>
-                    <a href="https://gitlab.com/FlukAnipat" class="social-badge">🦊 GitLab</a>
-                    <a href="https://www.instagram.com/fluk__anipat____" class="social-badge">📷 Instagram</a>
-                    <a href="https://facebook.com/Fluk.Anipat5556666" class="social-badge">📘 Facebook</a>
-                    <a href="https://discord.com/users/fluk_donovan" class="social-badge">💬 Discord</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- About Section -->
-        <div class="about-section">
-            <h2 style="color: #0ea5e9; margin-bottom: 25px; font-size: 2.5em;">🚀 About Me</h2>
-            <div class="code-block">
-                <code>
-const anipat = {<br>
-&nbsp;&nbsp;location: <span style="color: #fbbf24;">"Chiang Rai, Thailand 🇹🇭"</span>,<br>
-&nbsp;&nbsp;role: <span style="color: #fbbf24;">"Full Stack Developer & Web Dev Teacher"</span>,<br>
-&nbsp;&nbsp;passion: [<span style="color: #fbbf24;">"Coding"</span>, <span style="color: #fbbf24;">"Teaching"</span>, <span style="color: #fbbf24;">"Open Source"</span>],<br>
-&nbsp;&nbsp;currentFocus: <span style="color: #fbbf24;">"Building scalable web applications"</span>,<br>
-&nbsp;&nbsp;learning: [<span style="color: #fbbf24;">"NestJS"</span>, <span style="color: #fbbf24;">"Nuxt.js"</span>, <span style="color: #fbbf24;">"Cloud Architecture"</span>],<br>
-&nbsp;&nbsp;funFact: <span style="color: #fbbf24;">"I debug code faster than I drink coffee ☕"</span><br>
+```typescript
+const anipat = {
+    location: "Chiang Rai, Thailand 🇹🇭",
+    role: "Full Stack Developer & Web Dev Teacher",
+    education: "Computer Science Student",
+    github: {
+        personal: "@FlukAnipat",
+        university: "@651998013"
+    },
+    currentFocus: [
+        "Building scalable web applications",
+        "Teaching web development",
+        "Contributing to open source"
+    ],
+    learning: ["NestJS", "Nuxt.js", "Docker", "Kubernetes"],
+    hobbies: ["Coding 💻", "Teaching 📚", "Design 🎨", "IoT 🤖"],
+    funFact: "I debug code faster than I drink coffee ☕"
 };
-                </code>
-            </div>
-            <p style="text-align: center; margin-top: 20px; font-size: 1.2em;">
-                🎓 <strong>University Account:</strong> 
-                <a href="https://github.com/651998013" style="color: #0ea5e9; text-decoration: none;">@651998013</a>
-            </p>
-        </div>
+```
 
-        <!-- Stats Section -->
-        <h2 style="color: #0ea5e9; margin-bottom: 25px; font-size: 2.5em; text-align: center;">📊 My Journey</h2>
-        <div class="stats-section">
-            <div class="stat-card">
-                <div class="stat-number">5+</div>
-                <div class="stat-label">Years of Coding</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">20+</div>
-                <div class="stat-label">Technologies</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">∞</div>
-                <div class="stat-label">Passion for Learning</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">100%</div>
-                <div class="stat-label">Dedication</div>
-            </div>
-        </div>
+<div align="center">
 
-        <!-- Skills Section -->
-        <h2 style="color: #0ea5e9; margin-bottom: 25px; font-size: 2.5em; text-align: center;">💻 Tech Stack</h2>
-        <div class="skills-section">
-            <div class="skill-category">
-                <h3>🧩 Core Languages</h3>
-                <div class="skill-tags">
-                    <span class="skill-tag">C</span>
-                    <span class="skill-tag">C++</span>
-                    <span class="skill-tag">C#</span>
-                    <span class="skill-tag">Java</span>
-                    <span class="skill-tag">Python</span>
-                    <span class="skill-tag">JavaScript</span>
-                    <span class="skill-tag">TypeScript</span>
-                    <span class="skill-tag">PHP</span>
-                </div>
-            </div>
+### 🎓 University Account
+[![GitHub University](https://img.shields.io/badge/GitHub-651998013-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/651998013)
 
-            <div class="skill-category">
-                <h3>🎨 Frontend Development</h3>
-                <div class="skill-tags">
-                    <span class="skill-tag">HTML5</span>
-                    <span class="skill-tag">CSS3</span>
-                    <span class="skill-tag">Bootstrap</span>
-                    <span class="skill-tag">Tailwind CSS</span>
-                    <span class="skill-tag">React</span>
-                    <span class="skill-tag">Next.js</span>
-                    <span class="skill-tag">Vue.js</span>
-                    <span class="skill-tag">Nuxt.js</span>
-                    <span class="skill-tag">Vuetify 2</span>
-                </div>
-            </div>
+</div>
 
-            <div class="skill-category">
-                <h3>⚙️ Backend Development</h3>
-                <div class="skill-tags">
-                    <span class="skill-tag">Node.js</span>
-                    <span class="skill-tag">Express.js</span>
-                    <span class="skill-tag">NestJS</span>
-                    <span class="skill-tag">Spring Boot</span>
-                    <span class="skill-tag">.NET</span>
-                </div>
-            </div>
+<br>
 
-            <div class="skill-category">
-                <h3>🗄️ Database & Cloud</h3>
-                <div class="skill-tags">
-                    <span class="skill-tag">MySQL</span>
-                    <span class="skill-tag">Google Cloud Platform</span>
-                </div>
-            </div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
-            <div class="skill-category">
-                <h3>🛠️ Tools & Design</h3>
-                <div class="skill-tags">
-                    <span class="skill-tag">Git</span>
-                    <span class="skill-tag">VS Code</span>
-                    <span class="skill-tag">Figma</span>
-                    <span class="skill-tag">Photoshop</span>
-                    <span class="skill-tag">Illustrator</span>
-                    <span class="skill-tag">Premiere Pro</span>
-                    <span class="skill-tag">Blender</span>
-                </div>
-            </div>
+<div align="center">
 
-            <div class="skill-category">
-                <h3>☁️ Cloud & IoT</h3>
-                <div class="skill-tags">
-                    <span class="skill-tag">GCP</span>
-                    <span class="skill-tag">Arduino</span>
-                </div>
-            </div>
-        </div>
+### 🧩 Programming Languages
 
-        <!-- Footer -->
-        <div class="footer">
-            <div class="footer-emoji">💙</div>
-            <h3 style="color: #0ea5e9; margin-bottom: 15px;">Let's Connect!</h3>
-            <p style="margin-bottom: 20px;">
-                I'm always interested in collaborating on exciting projects or just chatting about tech!
-            </p>
-            <p style="color: #94a3b8;">
-                💬 Looking for collaboration opportunities in:<br>
-                Open Source Projects • Web Development • Teaching & Mentoring • IoT & Embedded Systems
-            </p>
-            <div style="margin-top: 30px; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.1);">
-                <p style="color: #64748b;">⭐ Made with Love by Anipat Jaiworn</p>
-                <p style="color: #64748b; margin-top: 10px;">© 2024 • Open Source 💚</p>
-            </div>
-        </div>
-    </div>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-    <script>
-        // Typing Animation
-        const texts = [
-            "Full Stack Developer 💻",
-            "Web Development Teacher 📘",
-            "Open Source Enthusiast 🌟",
-            "Based in Chiang Rai, Thailand 🇹🇭",
-            "Let's Build Something Amazing! 🚀"
-        ];
-        
-        let textIndex = 0;
-        let charIndex = 0;
-        let isDeleting = false;
-        let typingSpeed = 100;
+### 🎨 Frontend Development
 
-        function typeText() {
-            const currentText = texts[textIndex];
-            const displayText = isDeleting 
-                ? currentText.substring(0, charIndex - 1)
-                : currentText.substring(0, charIndex + 1);
-            
-            document.getElementById('typing-text').textContent = displayText;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-            if (!isDeleting && charIndex === currentText.length) {
-                setTimeout(() => isDeleting = true, 2000);
-            } else if (isDeleting && charIndex === 0) {
-                isDeleting = false;
-                textIndex = (textIndex + 1) % texts.length;
-            }
+**Frameworks & Libraries:**
 
-            charIndex = isDeleting ? charIndex - 1 : charIndex + 1;
-            
-            const speed = isDeleting ? 50 : 100;
-            setTimeout(typeText, speed);
-        }
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-        // Start typing animation
-        typeText();
+**CSS Frameworks:**
 
-        // Add scroll animation
-        window.addEventListener('scroll', () => {
-            const elements = document.querySelectorAll('.skill-category, .stat-card');
-            elements.forEach(element => {
-                const position = element.getBoundingClientRect().top;
-                const screenPosition = window.innerHeight / 1.3;
-                
-                if (position < screenPosition) {
-                    element.style.opacity = '1';
-                    element.style.transform = 'translateY(0)';
-                }
-            });
-        });
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 
-        // Initial setup for scroll animation
-        document.querySelectorAll('.skill-category, .stat-card').forEach(element => {
-            element.style.opacity = '0';
-            element.style.transform = 'translateY(50px)';
-            element.style.transition = 'all 0.6s ease';
-        });
-    </script>
-</body>
-</html>
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🗄️ Database & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🛠️ Tools & Software
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🎨 Design & Multimedia
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### 🤖 IoT & Hardware
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FlukAnipat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&ring_color=0ea5e9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FlukAnipat&theme=tokyonight&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlukAnipat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=FlukAnipat&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0ea5e9&line=0ea5e9&point=c9d1d9&area=true&area_color=0ea5e9" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FlukAnipat&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+## 🔥 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlukAnipat&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<br>
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlukAnipat&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9)](https://github.com/FlukAnipat)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=651998013&repo=university-projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9)](https://github.com/651998013)
+
+</div>
+
+<br>
+
+## 🌟 Interests & Focus
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 💻 Development
+Building scalable web applications with modern frameworks and best practices
+
+</td>
+<td align="center" width="33%">
+
+### 📚 Teaching
+Sharing knowledge and helping others learn web development
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Innovation
+Exploring new technologies and contributing to open source
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📈 Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░   45.2%
+JavaScript   8 hrs 15 mins   ███████░░░░░░░░░░░░░░   29.8%
+Vue          4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░   15.7%
+CSS          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░    6.3%
+Others       50 mins         █░░░░░░░░░░░░░░░░░░░░    3.0%
+```
+<!--END_SECTION:waka-->
+
+<br>
+
+## 🎯 Current Goals for 2024
+
+- ✅ Master NestJS and build production-ready APIs
+- ✅ Deep dive into Nuxt.js and Vue ecosystem
+- ✅ Contribute to open source projects
+- ✅ Share knowledge through teaching and blogging
+- ✅ Build innovative full-stack applications
+- ✅ Learn Docker and Kubernetes
+
+<br>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br>
+
+## 📫 Get In Touch
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+**💬 Open to collaborate on:**
+- Full Stack Web Applications
+- Open Source Projects
+- Teaching & Mentoring
+- IoT & Embedded Systems Projects
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anipat5556666@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70)
+
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-ff69b4?style=for-the-badge)
+![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-💚-success?style=for-the-badge)
+
+**© 2024 Anipat Jaiworn • Built with passion**
+
+</div>
