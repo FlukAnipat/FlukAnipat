@@ -21,6 +21,7 @@
 
 ```ts
 const anipat = {
+  name: "Anipat Jaiworn",
   role: "Full Stack Developer",
   location: "Thailand",
   focus: ["Web Applications", "APIs", "System Design"],
