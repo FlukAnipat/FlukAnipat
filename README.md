@@ -1,86 +1,83 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Anipat%20Jaiworn&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20" />
+
+<br>
+
+<h2>Full Stack Developer</h2>
+<p><i>Building modern, scalable web applications</i></p>
+
+<br>
+
+<a href="https://github.com/FlukAnipat">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://gitlab.com/FlukAnipat">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+<a href="mailto:Anipat5556666@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 <div>
+
+<h2 style="border-bottom:1px solid #30363d; padding-bottom:6px;">💼 About</h2>
+
+<pre style="background:#0d1117; padding:16px; border-radius:10px;">
+const anipat = {
+  name: "Anipat Jaiworn",
+  role: "Full Stack Developer",
+  location: "Thailand",
+  focus: ["Web Applications", "APIs", "System Design"],
+};
+</pre>
 
 <h2 style="border-bottom:1px solid #30363d; padding-bottom:6px;">🧠 Core Skills</h2>
 
-<!-- ICON OVERVIEW -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,next,nodejs,nestjs,express,mysql,mongodb,docker,git,github,gitlab,vscode" />
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:20px;">
+
+<div>
+<h3>💻 Programming Languages</h3>
+<ul>
+  <li><b>Strong:</b> JavaScript, TypeScript ⭐</li>
+  <li><b>Experienced:</b> Python, Java, C#, PHP</li>
+  <li><b>Familiar:</b> C, C++</li>
+</ul>
+
+<h3>🎨 Frontend</h3>
+<ul>
+  <li><b>Frameworks:</b> Vue.js ⭐, Nuxt.js ⭐, React, Next.js</li>
+  <li><b>Core:</b> HTML5, CSS3, JavaScript, TypeScript</li>
+  <li><b>UI:</b> Tailwind CSS, Vuetify</li>
+</ul>
 </div>
 
-<br>
-
-<!-- PROGRAMMING -->
-<h3>💻 Programming Languages</h3>
-
-<p>JavaScript</p>
-<img src="https://img.shields.io/badge/███████████████░░░-90%25-0ea5e9?style=for-the-badge"/>
-
-<p>TypeScript</p>
-<img src="https://img.shields.io/badge/██████████████░░░░-85%25-0ea5e9?style=for-the-badge"/>
-
-<p>Python</p>
-<img src="https://img.shields.io/badge/██████████░░░░░░░-60%25-64748b?style=for-the-badge"/>
-
-<p>Java</p>
-<img src="https://img.shields.io/badge/█████████░░░░░░░░-55%25-64748b?style=for-the-badge"/>
-
-<p>C# / PHP</p>
-<img src="https://img.shields.io/badge/████████░░░░░░░░░-50%25-64748b?style=for-the-badge"/>
-
-<p>C / C++</p>
-<img src="https://img.shields.io/badge/██████░░░░░░░░░░░-40%25-64748b?style=for-the-badge"/>
-
-<br>
-
-<!-- FRONTEND -->
-<h3>🎨 Frontend</h3>
-
-<p>Vue.js / Nuxt.js</p>
-<img src="https://img.shields.io/badge/██████████████░░░░-85%25-22c55e?style=for-the-badge"/>
-
-<p>React / Next.js</p>
-<img src="https://img.shields.io/badge/███████████░░░░░░-70%25-22c55e?style=for-the-badge"/>
-
-<p>HTML / CSS / Tailwind</p>
-<img src="https://img.shields.io/badge/█████████████░░░░-80%25-22c55e?style=for-the-badge"/>
-
-<br>
-
-<!-- BACKEND -->
+<div>
 <h3>⚙️ Backend</h3>
+<ul>
+  <li><b>Runtime:</b> Node.js ⭐</li>
+  <li><b>Frameworks:</b> NestJS, Express</li>
+  <li><b>Concepts:</b> REST API, JWT Auth, MVC</li>
+</ul>
 
-<p>Node.js</p>
-<img src="https://img.shields.io/badge/███████████████░░░-90%25-f59e0b?style=for-the-badge"/>
-
-<p>NestJS / Express</p>
-<img src="https://img.shields.io/badge/████████████░░░░░-80%25-f59e0b?style=for-the-badge"/>
-
-<p>REST API / JWT</p>
-<img src="https://img.shields.io/badge/█████████████░░░░-85%25-f59e0b?style=for-the-badge"/>
-
-<br>
-
-<!-- DATABASE -->
 <h3>🗄️ Database</h3>
+<ul>
+  <li><b>Relational:</b> MySQL ⭐</li>
+  <li><b>NoSQL:</b> MongoDB</li>
+</ul>
 
-<p>MySQL</p>
-<img src="https://img.shields.io/badge/██████████████░░░░-85%25-3b82f6?style=for-the-badge"/>
+<h3>🛠️ Tools</h3>
+<ul>
+  <li><b>Version Control:</b> Git, GitHub, GitLab</li>
+  <li><b>Container:</b> Docker</li>
+  <li><b>Tools:</b> VS Code, Windsurf, Antigravity</li>
+</ul>
+</div>
 
-<p>MongoDB</p>
-<img src="https://img.shields.io/badge/███████████░░░░░░-70%25-3b82f6?style=for-the-badge"/>
-
-<br>
-
-<!-- TOOLS -->
-<h3>🛠️ DevOps & Tools</h3>
-
-<p>Git / GitHub / GitLab</p>
-<img src="https://img.shields.io/badge/██████████████░░░░-85%25-ef4444?style=for-the-badge"/>
-
-<p>Docker</p>
-<img src="https://img.shields.io/badge/██████████░░░░░░░-65%25-ef4444?style=for-the-badge"/>
-
-<p>VS Code / Windsurf</p>
-<img src="https://img.shields.io/badge/█████████████░░░░-80%25-ef4444?style=for-the-badge"/>
+</div>
 
 </div>
